@@ -30,7 +30,7 @@
 
 ## 🛠️ Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,fastapi,docker,git,github,mac" />
 </p>
 
 ---
@@ -61,7 +61,7 @@ I enjoy working on the **complete pipeline**.
 
 ## 📫 Connect With Me
 - 📧 Email: mohitbarse2230@gami.com  
-- 💼 LinkedIn: (add your link here)
+- 💼 LinkedIn: https://www.linkedin.com/in/mohit-b-9a997b301/
 
 ---
 
