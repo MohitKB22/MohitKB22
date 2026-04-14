@@ -65,22 +65,21 @@ I'm an **AI/ML Engineer** passionate about turning complex research into product
 
 ## 🚀 Featured Projects
 
-### 🧠 [Multimodal RAG Engine](https://github.com/MohitKB22/rag-multimodal-engine)
-> A deployable Retrieval-Augmented Generation system that understands **text, images, and tables** from PDF documents.
+### 🤖 [LLM Research Agent](https://github.com/MohitKB22/llm-research-agent)
+> An autonomous agent that searches the web, retrieves papers, and synthesizes cited research reports — end to end.
 
 ```
-PDF Document → Multimodal Parser → [Text | Image | Table] Indexes → Query Router → Generator → Answer
+Query → Planner → [Web Search | arXiv Retrieval | PDF Ingestion] → Vector Memory → Reasoning Loop → Report
 ```
 
 | Feature | Details |
 |---|---|
-| 📄 Input | PDF documents with mixed content (text, charts, tables) |
-| 🔍 Indexing | Separate FAISS indexes per modality |
-| 🖼️ Vision | GPT-4V captions images and interprets visual data |
-| 🧭 Routing | Intelligent query routing to the right modality |
-| 🛠️ Stack | `LangChain` · `FAISS` · `pdfplumber` · `PyMuPDF` · `GPT-4o` |
-
----
+| 🧠 Planner | Breaks query into sub-tasks, reflects on gaps, re-queries until confident |
+| 🌐 Web Search | Retrieves live sources beyond pre-indexed docs |
+| 📚 arXiv Retrieval | Searches and pulls research papers via arXiv API |
+| 📄 PDF Ingestion | Chunks and embeds downloaded papers into per-session FAISS store |
+| 💻 Code Execution | Runs analysis snippets to verify claims and parse tabular data |
+| 🛠️ Stack | `LangChain Agents` · `FAISS` · `arXiv API` · `pdfplumber` · `GPT-4o` · `FastAPI` |
 
 ### 📊 [Stock Analytics Hub](https://github.com/MohitKB22/stock-analytics-hub)
 > Interactive dashboard for visualizing **Nifty and stock market data** with real-time insights and analytics.
