@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Mohit%20Barse&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%E2%80%94%20RAG%20Systems%20%7C%20Multimodal%20AI%20%7C%20Production%20Pipelines&descAlignY=60&descSize=14" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohit%20Barse&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20RAG%20Systems%20%7C%20Multimodal%20AI%20%7C%20Data-Driven%20Applications&descAlignY=60&descSize=15" alt="header" />
 
 <p>
   <a href="https://www.linkedin.com/in/mohit-b-9a997b301/">
@@ -9,83 +9,113 @@
   <a href="https://x.com/mohitkb22">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
+  <a href="https://github.com/MohitKB22">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="mailto:mohitbarse2230@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
+<img src="https://komarev.com/ghpvc/?username=MohitKB22&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
+
 </div>
 
 ---
 
-## About me
+## 🧠 About Me
 
-I'm an AI/ML engineer focused on building **retrieval-augmented generation systems** and **multimodal AI applications** that work reliably in production — not just in notebooks.
+> *"I don't just build models — I focus on building **usable AI systems**."*
 
-My work sits at the intersection of LLM engineering, backend systems, and applied ML. I care about the full pipeline: from data ingestion and vector indexing to API deployment and output quality.
+I'm an **AI/ML Engineer** passionate about turning complex research into production-ready, real-world solutions. My focus lies at the intersection of **Retrieval-Augmented Generation (RAG)**, **multimodal AI**, and **scalable backend systems**.
 
-- Currently deepening expertise in **MLOps**, **FastAPI** deployment patterns, and model evaluation
-- Building toward owning end-to-end AI pipelines — data in, intelligent output out
-- Occasionally sharing engineering thoughts on **[@mohitkb22](https://x.com/mohitkb22)**
-
----
-
-## Tech stack
-
-**Core languages:** Python · JavaScript
-
-**AI / LLM:** LangChain · OpenAI API (GPT-4o, GPT-4V) · FAISS · Embeddings · Prompt engineering
-
-**ML / Data:** TensorFlow · Keras · scikit-learn · OpenCV · Pandas · Plotly
-
-**Backend & infra:** FastAPI · PostgreSQL · Docker · Git
+- 🔭 Currently building advanced **RAG pipelines** & **multimodal AI applications**
+- 🌱 Deepening expertise in **MLOps**, **FastAPI** deployment workflows, and model lifecycle management
+- 🎯 Goal: Become an industry-ready AI Engineer owning the full pipeline — from data ingestion to intelligent output
+- ✍️ I occasionally share AI/ML insights and engineering thoughts on **[X (@mohitkb22)](https://x.com/mohitkb22)**
+- ⚡ Fun fact: I enjoy turning complex problems into simple, working solutions 🚀
 
 ---
 
-## Projects
+## 🛠️ Tech Stack
 
-### [Multimodal RAG Engine](https://github.com/MohitKB22/rag-multimodal-engine)
+<div align="center">
 
-A production-oriented RAG system that ingests PDFs containing mixed content — text, images, and tables — and answers queries by routing them to the right modality index.
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+### AI / ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+
+### Tools & Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+### 🧠 [Multimodal RAG Engine](https://github.com/MohitKB22/rag-multimodal-engine)
+> A deployable Retrieval-Augmented Generation system that understands **text, images, and tables** from PDF documents.
 
 ```
-PDF → Multimodal Parser → [Text Index | Image Index | Table Index]
-                                          ↓
-                              Query Router → GPT-4o → Answer
+PDF Document → Multimodal Parser → [Text | Image | Table] Indexes → Query Router → Generator → Answer
 ```
 
-**Key design choices:**
-- Separate FAISS indexes per modality (text embeddings vs. GPT-4V-generated image captions vs. structured table extraction)
-- Semantic query classifier routes each question to the most relevant index before generation
-- Built with `LangChain` · `FAISS` · `pdfplumber` · `PyMuPDF` · `GPT-4o`
+| Feature | Details |
+|---|---|
+| 📄 Input | PDF documents with mixed content (text, charts, tables) |
+| 🔍 Indexing | Separate FAISS indexes per modality |
+| 🖼️ Vision | GPT-4V captions images and interprets visual data |
+| 🧭 Routing | Intelligent query routing to the right modality |
+| 🛠️ Stack | `LangChain` · `FAISS` · `pdfplumber` · `PyMuPDF` · `GPT-4o` |
 
 ---
 
-### [Stock Analytics Hub](https://github.com/MohitKB22/stock-analytics-hub)
+### 📊 [Stock Analytics Hub](https://github.com/MohitKB22/stock-analytics-hub)
+> Interactive dashboard for visualizing **Nifty and stock market data** with real-time insights and analytics.
 
-Interactive dashboard for Nifty and equity market data — real-time visualization, trend analysis, and pattern detection.
-
-Built with `Python` · `Streamlit/Dash` · `Pandas` · `Plotly`
-
----
-
-### [Care AI Engine](https://github.com/MohitKB22/care-ai-engine)
-
-Conversational AI for healthcare — symptom intake, intelligent triage routing, and patient-facing Q&A.
-
-Built with `JavaScript` · NLP · AI APIs
+| Feature | Details |
+|---|---|
+| 📈 Data | Real-time stock data visualization |
+| 📊 Charts | Interactive trend analysis & pattern detection |
+| 🛠️ Stack | `Python` · `Dash/Streamlit` · `Pandas` · `Plotly` |
 
 ---
 
-### [Fingerprint Blood Group Prediction](https://github.com/MohitKB22/Fingerprint-Based-BloodGroup-Prediction)
+### 🩺 [Care AI Engine](https://github.com/MohitKB22/care-ai-engine)
+> AI-powered healthcare chatbot for **symptom analysis**, medical guidance, and patient support.
 
-End-to-end CNN pipeline predicting blood group from fingerprint images — from raw image preprocessing through classification. A research-oriented deep learning project exploring biometric correlates.
-
-Built with `Python` · `TensorFlow/Keras` · `OpenCV`
+| Feature | Details |
+|---|---|
+| 💬 Interface | Conversational AI for healthcare Q&A |
+| 🔎 Analysis | Symptom understanding & intelligent routing |
+| 🛠️ Stack | `JavaScript` · `NLP` · AI APIs |
 
 ---
 
-## Architecture — Multimodal RAG
+### 🔬 [Fingerprint Blood Group Prediction](https://github.com/MohitKB22/Fingerprint-Based-BloodGroup-Prediction)
+> A deep learning project predicting **blood group from fingerprint images** using CNNs.
+
+| Feature | Details |
+|---|---|
+| 🧬 Research | Biometric patterns correlated with blood groups |
+| 🤖 Model | End-to-end CNN from image preprocessing to classification |
+| 🛠️ Stack | `Python` · `TensorFlow/Keras` · `OpenCV` |
+
+---
+
+## 🏗️ System Architecture (RAG Reference)
 
 ```mermaid
 flowchart TD
@@ -111,29 +141,51 @@ flowchart TD
 
 ---
 
-## GitHub stats
+## 📈 GitHub Stats
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="160" />
+<img src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" height="165" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b35&currStreakLabel=c9d1d9" alt="GitHub Streak" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 
 </div>
 
 ---
 
-## Get in touch
+## 🤝 Open to Collaborate On
 
-| | |
+| Area | Details |
 |---|---|
-| LinkedIn | [mohit-b-9a997b301](https://www.linkedin.com/in/mohit-b-9a997b301/) |
-| X | [@mohitkb22](https://x.com/mohitkb22) |
-| Email | [mohitbarse2230@gmail.com](mailto:mohitbarse2230@gmail.com) |
+| 🤖 AI/ML Projects | Real-world impact, RAG systems, LLM applications |
+| 🛠️ Full-Stack AI Apps | End-to-end development from data to interface |
+| 📦 Open Source | Python, AI tooling, ML utilities |
+| 💡 Hackathons | Rapid prototyping and innovation sprints |
+
+---
+
+## 📫 Get In Touch
+
+<div align="center">
+
+| Platform | Link |
+|---|---|
+| 💼 LinkedIn | [mohit-b-9a997b301](https://www.linkedin.com/in/mohit-b-9a997b301/) |
+| 🐦 X (Twitter) | [@mohitkb22](https://x.com/mohitkb22) |
+| 📧 Email | [mohitbarse2230@gmail.com](mailto:mohitbarse2230@gmail.com) |
+| 🐙 GitHub | [@MohitKB22](https://github.com/MohitKB22) |
+
+</div>
 
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" alt="footer"/>
+
+*"The best way to predict the future is to build it."* 🚀
+
 </div>
