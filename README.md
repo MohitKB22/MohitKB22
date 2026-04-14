@@ -44,20 +44,23 @@ My work sits at the intersection of LLM engineering, backend systems, and applie
 
 ## Projects
 
-### [Multimodal RAG Engine](https://github.com/MohitKB22/rag-multimodal-engine)
+### [LLM Research Agent](https://github.com/MohitKB22/rag-multimodal-engine)
 
-A production-oriented RAG system that ingests PDFs containing mixed content — text, images, and tables — and answers queries by routing them to the right modality index.
+An autonomous research agent that takes a user query, plans a multi-step investigation, and returns a synthesized, cited answer — without manual intervention.
 
 ```
-PDF → Multimodal Parser → [Text Index | Image Index | Table Index]
-                                          ↓
-                              Query Router → GPT-4o → Answer
+Query → Planner → [Web Search | arXiv Retrieval | PDF Ingestion]
+                              ↓
+                    Vector Memory (FAISS) → Reasoning Loop → Report
 ```
 
 **Key design choices:**
-- Separate FAISS indexes per modality (text embeddings vs. GPT-4V-generated image captions vs. structured table extraction)
-- Semantic query classifier routes each question to the most relevant index before generation
-- Built with `LangChain` · `FAISS` · `pdfplumber` · `PyMuPDF` · `GPT-4o`
+- **Planner-executor loop:** the agent breaks a research question into sub-tasks, executes each tool call, reflects on gaps, and re-queries until confident
+- **arXiv + web search tools:** retrieves live papers and sources, not just pre-indexed docs
+- **PDF ingestion pipeline:** downloaded papers are chunked, embedded, and stored in a per-session FAISS vector store for grounded retrieval
+- **Code execution tool:** can run analysis snippets to verify numerical claims or summarize tabular data from papers
+- **Structured output:** final report includes section summaries, key findings, and inline citations back to source documents
+- Built with `LangChain Agents` · `FAISS` · `arXiv API` · `pdfplumber` · `GPT-4o` · `FastAPI`
 
 ---
 
@@ -85,28 +88,31 @@ Built with `Python` · `TensorFlow/Keras` · `OpenCV`
 
 ---
 
-## Architecture — Multimodal RAG
+## Architecture — LLM Research Agent
 
 ```mermaid
 flowchart TD
-    A["📄 PDF Input\nText · Images · Tables"]
-    B["🔀 Multimodal Parser\npdfplumber · PyMuPDF"]
-    C1["📝 Text Index\nFAISS + Embeddings"]
-    C2["🖼️ Image Index\nGPT-4V Captions"]
-    C3["📊 Table Index\nStructured Extraction"]
-    D["🧭 Query Router\nSemantic Classification"]
-    E["⚡ Generator\nGPT-4o · LangChain"]
-    F["✅ Final Answer"]
+    A["🔍 Research Query"]
+    B["🧠 Planner\nGPT-4o · LangChain"]
+    C1["🌐 Web Search\nLive sources"]
+    C2["📚 arXiv Retrieval\nPaper search API"]
+    C3["📄 PDF Ingestion\npdfplumber · chunking"]
+    D["🗃️ Vector Memory\nFAISS per-session store"]
+    E["🔁 Reasoning Loop\nReflect · re-query if needed"]
+    F["💻 Code Execution\nVerify claims · parse tables"]
+    G["📝 Final Report\nSummary · citations · sources"]
 
     A --> B
     B --> C1
     B --> C2
     B --> C3
-    C1 --> D
-    C2 --> D
     C3 --> D
+    C1 --> E
+    C2 --> E
     D --> E
     E --> F
+    F --> G
+    E -->|gap detected| B
 ```
 
 ---
