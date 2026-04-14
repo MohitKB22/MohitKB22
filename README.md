@@ -81,6 +81,8 @@ Query → Planner → [Web Search | arXiv Retrieval | PDF Ingestion] → Vector 
 | 💻 Code Execution | Runs analysis snippets to verify claims and parse tabular data |
 | 🛠️ Stack | `LangChain Agents` · `FAISS` · `arXiv API` · `pdfplumber` · `GPT-4o` · `FastAPI` |
 
+---
+
 ### 📊 [Stock Analytics Hub](https://github.com/MohitKB22/stock-analytics-hub)
 > Interactive dashboard for visualizing **Nifty and stock market data** with real-time insights and analytics.
 
