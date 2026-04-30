@@ -175,13 +175,20 @@ User Query
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5c4fff&text_color=c9d1d9&icon_color=00e5b0" height="170" />
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=5c4fff&text_color=c9d1d9" height="170" />
+<!-- Row 1: GitHub Stats + Top Languages (side by side) -->
+<img src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&hide_border=true&bg_color=0d1117&title_color=5c4fff&text_color=c9d1d9&icon_color=00e5b0&border_radius=10" height="175" />
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&hide_border=true&bg_color=0d1117&title_color=5c4fff&text_color=c9d1d9&border_radius=10&langs_count=6" height="175" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&theme=tokyonight&hide_border=true&background=0d1117&stroke=5c4fff&ring=5c4fff&fire=ff4f8b&currStreakLabel=c9d1d9" />
+<br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&area=true&hide_border=true" width="100%" />
+<!-- Row 2: Streak Stats — matches the 3-panel streak widget in screenshot -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&hide_border=true&background=0D1117&stroke=5c4fff&ring=5c4fff&fire=ff4f8b&currStreakNum=00e5b0&sideNums=c9d1d9&currStreakLabel=5c4fff&sideLabels=c9d1d9&dates=6b6b8a&border_radius=10" width="70%" />
+
+<br/>
+
+<!-- Row 3: Contribution Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&bg_color=0d1117&color=c9d1d9&line=5c4fff&point=00e5b0&area=true&area_color=5c4fff&hide_border=true&radius=10" width="100%" />
 
 </div>
 
