@@ -77,6 +77,20 @@ I'm an **AI/ML Engineer** who lives at the intersection of **Retrieval-Augmented
 
 ## `> projects --featured`
 
+<div align="center">
+
+<a href="https://github.com/MohitKB22/llm-research-agent"><img src="card1.svg" width="49%" alt="LLM Research Agent" /></a>
+<a href="https://github.com/MohitKB22/stock-analytics-hub"><img src="card2.svg" width="49%" alt="Stock Analytics Hub" /></a>
+
+<br/><br/>
+
+<a href="https://github.com/MohitKB22/care-ai-engine"><img src="card3.svg" width="49%" alt="Care AI Engine" /></a>
+<a href="https://github.com/MohitKB22/Fingerprint-Based-BloodGroup-Prediction"><img src="card4.svg" width="49%" alt="Fingerprint Blood Group Prediction" /></a>
+
+</div>
+
+---
+
 ### 🤖 [LLM Research Agent](https://github.com/MohitKB22/llm-research-agent)
 
 > Autonomous agent that searches the web, retrieves arXiv papers, and synthesizes fully cited research reports — end to end.
@@ -227,4 +241,3 @@ User Query
 *"The best way to predict the future is to build it."* &nbsp;🚀
 
 </div>
-
