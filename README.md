@@ -17,8 +17,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=MohitKB22&style=for-the-badge&color=0e75b6&label=PROFILE+VIEWS" />
-
 </div>
 
 ---
