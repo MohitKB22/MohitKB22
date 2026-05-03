@@ -183,7 +183,7 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=100&section=footer" alt="footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=100&section=footer" alt="footer"/>
 
 *"The best way to predict the future is to build it."* 🚀
 
