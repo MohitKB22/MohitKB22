@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Mohit%20Barse&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20RAG%20Systems%20%7C%20Multimodal%20AI%20%7C%20Data-Driven%20Applications&descAlignY=60&descSize=15" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=220&section=header&text=Mohit%20Barse&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20RAG%20Systems%20%7C%20Multimodal%20AI%20%7C%20Data-Driven%20Applications&descAlignY=60&descSize=15" alt="header" />
 
 <p>
   <a href="https://www.linkedin.com/in/mohit-b-9a997b301/">
