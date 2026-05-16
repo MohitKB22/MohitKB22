@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="#">
-  <img width="720px" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&lines=Building+Scalable+AI+Applications+🚀;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Engineering;FastAPI+Backends+%7C+Vector+Databases;Open+to+Collaboration+and+Innovation+⚡" />
+  <img width="760px" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=BFD7FF&center=true&vCenter=true&lines=Building+Scalable+AI+Applications+🚀;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Engineering;FastAPI+Backends+%7C+Vector+Databases;Open+to+Collaboration+and+Innovation+⚡" />
 </a>
 </p>
 
