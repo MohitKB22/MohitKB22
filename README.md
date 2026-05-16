@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:111827,100:000000&text=Mohit%20Barse&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20•%20Agentic%20AI%20•%20RAG%20Systems%20•%20Multimodal%20Applications&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090979,50:111827,100:000000&text=Mohit%20Barse&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=AI%20Engineer%20•%20Agentic%20AI%20•%20RAG%20Systems&descSize=16&descAlignY=56&animation=fadeIn" width="100%" />
 
 <p align="center">
 <a href="#">
-  <img width="850px" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&lines=Hello+World+👋;Welcome+to+My+GitHub+Profile+💻;Building+AI+Systems+for+Real-World+Impact+🚀;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Engineering;Reach+Out+If+You+Want+to+Collaborate+🤝;Always+Open+to+Innovation+and+Opportunities+⚡" />
+  <img width="720px" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&lines=Building+Scalable+AI+Applications+🚀;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Engineering;FastAPI+Backends+%7C+Vector+Databases;Open+to+Collaboration+and+Innovation+⚡" />
 </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="78%" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="74%" />
 
 <br/>
 
@@ -43,6 +43,7 @@
 </a>
 
 </div>
+
 ---
 
 ## 🧠 About Me
