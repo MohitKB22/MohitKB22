@@ -243,43 +243,9 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=MohitKB22&data=followers,repositories,stars,commits&theme=darkmode" width="95%" />
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9"/>
 
-<br/><br/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MohitKB22&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
-
-<br/><br/>
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
-
-<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=github_dark" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&hide_border=true&radius=16"/>
-
-</div>
-
----
-
-## ⚡ Development Insights
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohitKB22&theme=github_dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohitKB22&theme=github_dark" width="32%" />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitKB22&theme=github_dark&utcOffset=5.5" width="32%" />
+<img height="170em" src="https://streak-stats.demolab.com?user=MohitKB22&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9"/>
 
 </div>
 
@@ -287,7 +253,17 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems+🚀;Open+Source+Contributor+%7C+AI+Engineer;Transforming+Ideas+into+Intelligent+Applications" />
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
+
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=tokyonight"/>
 
 </div>
 
