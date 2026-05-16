@@ -310,11 +310,17 @@ flowchart TD
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+<img src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=18&margin-h=18" width="95%" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributor-0F172A?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/AI%20Engineer-Builder-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
+<img src="https://img.shields.io/badge/Focused%20On-Scalable%20Systems-111827?style=for-the-badge" />
 
 </div>
 
