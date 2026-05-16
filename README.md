@@ -193,30 +193,6 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 
 ---
 
-### 📄 [AI-Based Resume Analyser](https://github.com/MohitKB22/AI-BASED-RESUME-ANALYSER)
-> An AI resume analysis tool that evaluates resumes and provides intelligent suggestions for improvement.
-
-| Feature | Details |
-|---|---|
-| 🧠 Resume Intelligence | Automated resume evaluation |
-| ✍️ Feedback Engine | Suggests improvements and optimizations |
-| 📑 Document Analysis | Parses and analyzes resume content |
-| 🛠️ Stack | `AI/ML` · `Python` · `NLP` |
-
----
-
-### 📊 [Stock Analytics Hub](https://github.com/MohitKB22/stock-analytics-hub)
-> A real-time stock analytics dashboard for visualizing market trends and generating actionable insights.
-
-| Feature | Details |
-|---|---|
-| 📈 Market Analytics | Tracks stock and index movements |
-| 📉 Trend Analysis | Interactive charts and insights |
-| ⚡ Real-Time Data | Live visualization experience |
-| 🛠️ Stack | `Python` · `Streamlit` · `Pandas` · `Plotly` |
-
----
-
 ## 🏗️ LLM System Architecture
 
 ```mermaid
