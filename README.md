@@ -243,31 +243,19 @@ flowchart TD
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_radius=14&include_all_commits=true&count_private=true" height="190em"/>
-</td>
+<img src="https://github-widgetbox.vercel.app/api/profile?username=MohitKB22&data=followers,repositories,stars,commits&theme=darkmode" width="95%" />
 
-<td>
-<img src="https://streak-stats.demolab.com?user=MohitKB22&theme=github-dark-blue&hide_border=true&border_radius=14&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" height="190em"/>
-</td>
-</tr>
-</table>
+<br/><br/>
 
-<br/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&include_all_commits=true&count_private=true" />
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=14&langs_count=8" height="170em"/>
-</td>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=MohitKB22&theme=transparent&hide_border=true&stroke=58A6FF&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" />
 
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitKB22&theme=github_dark" height="170em"/>
-</td>
-</tr>
-</table>
+<br/><br/>
+
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&langs_count=8" />
+
+<img width="54%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=github_dark" />
 
 </div>
 
@@ -277,17 +265,29 @@ flowchart TD
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=github-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=79C0FF&color=C9D1D9&area=true&radius=12"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=79C0FF&area=true&hide_border=true&radius=16"/>
 
 </div>
 
 ---
 
-## 🔝 Contribution Overview
+## ⚡ Development Insights
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=github_dark"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MohitKB22&theme=github_dark" width="32%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MohitKB22&theme=github_dark" width="32%" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitKB22&theme=github_dark&utcOffset=5.5" width="32%" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=700&lines=Building+Scalable+AI+Systems+🚀;Open+Source+Contributor+%7C+AI+Engineer;Transforming+Ideas+into+Intelligent+Applications" />
 
 </div>
 
