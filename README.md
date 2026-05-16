@@ -330,10 +330,20 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=footer&color=0:000000,50:111827,100:1E3A8A" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=120&section=footer" alt="footer"/>
+<br/>
 
-*"The best way to predict the future is to build it."* 🚀
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=60A5FA&center=true&vCenter=true&width=700&lines=Building+AI+Systems+That+Create+Real-World+Impact;From+Research+to+Production-Ready+Applications;Engineering+Scalable+Intelligence+for+the+Future" />
+
+<br/><br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focused%20On-Agentic%20AI-111827?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LLM%20Engineering-0F172A?style=for-the-badge" />
+</p>
+
+### ⚡ *"Turning Ideas into Intelligent Systems."*
 
 </div>
