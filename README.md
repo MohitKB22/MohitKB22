@@ -1,22 +1,18 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:161B22,100:1F6FEB&text=Mohit%20Barse&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20•%20RAG%20Systems%20•%20LLM%20Apps&descSize=15&descAlignY=55&animation=fadeIn" width="100%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&customColorList=12,20,24,30&text=Mohit%20Barse&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Agentic%20Systems%20•%20LLM%20Applications&descAlignY=60&descSize=18"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications+🚀;Agentic+AI+%7C+RAG+%7C+FastAPI;Open+Source+%7C+Scalable+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&duration=2500&color=79C0FF&center=true&vCenter=true&width=520&lines=Building+AI+Products+for+Real+Impact;RAG+Pipelines+%7C+FastAPI+%7C+LLMs;Open+Source+Developer+⚡" />
 
 <br/><br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="70%" />
+<img src="https://github-widgetbox.vercel.app/api/profile?username=MohitKB22&data=followers,repositories,stars,commits&theme=darkmode" />
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile+Views&style=flat-square&color=1F6FEB" />
-  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=flat-square&color=21262D&logo=github" />
-  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&label=Stars&style=flat-square&color=1F6FEB&logo=github" />
-</p>
+<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="260"/>
 
 </div>
 
