@@ -310,17 +310,15 @@ flowchart TD
 
 ---
 
-## 🏆 GitHub Achievements
+## 🏆 GitHub Trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=algolia&no-frame=true&no-bg=true&row=2&column=4&margin-w=18&margin-h=18" width="95%" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" />
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open%20Source-Contributor-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/AI%20Engineer-Builder-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Focused%20On-Scalable%20Systems-111827?style=for-the-badge" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Consistency+%E2%80%A2+Innovation+%E2%80%A2+Open+Source;Building+AI+Systems+with+Real-World+Impact" />
 
 </div>
 
