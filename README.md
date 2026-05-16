@@ -168,59 +168,65 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
-### 🤖 [LLM Research Agent](https://github.com/MohitKB22/llm-research-agent)
-> An autonomous agent that searches the web, retrieves papers, and synthesizes cited research reports — end to end.
-
-```
-Query → Planner → [Web Search | arXiv Retrieval | PDF Ingestion] → Vector Memory → Reasoning Loop → Report
-```
+### ✈️ [Agentic AI Travel Planner](https://github.com/MohitKB22/AgenticAI-TravelPlanner)
+> An agentic travel planning system that helps generate smart, structured travel itineraries with AI-driven assistance.
 
 | Feature | Details |
 |---|---|
-| 🧠 Planner | Breaks query into sub-tasks, reflects on gaps, re-queries until confident |
-| 🌐 Web Search | Retrieves live sources beyond pre-indexed docs |
-| 📚 arXiv Retrieval | Searches and pulls research papers via arXiv API |
-| 📄 PDF Ingestion | Chunks and embeds downloaded papers into per-session FAISS store |
-| 💻 Code Execution | Runs analysis snippets to verify claims and parse tabular data |
-| 🛠️ Stack | `LangChain Agents` · `FAISS` · `arXiv API` · `pdfplumber` · `GPT-4o` · `FastAPI` |
+| 🧠 Agentic Workflow | AI-based planning and task execution |
+| 🗺️ Travel Intelligence | Helps organize trips and itineraries |
+| ⚙️ Automation | Smart decision-making for travel planning |
+| 🛠️ Stack | `AI Agents` · `Python` · `LLM` |
 
 ---
 
-### 📊 [Stock Analytics Hub](https://github.com/MohitKB22/stock-analytics-hub)
-> Interactive dashboard for visualizing **Nifty and stock market data** with real-time insights and analytics.
+### 🩺 [AI Health Assistant](https://github.com/MohitKB22/AI_Health_Assitant)
+> An AI-powered health assistant designed to support symptom understanding and health-related guidance.
 
 | Feature | Details |
 |---|---|
-| 📈 Data | Real-time stock data visualization |
-| 📊 Charts | Interactive trend analysis & pattern detection |
+| 💬 Conversational AI | Health-focused assistant interactions |
+| 🔎 Symptom Support | Helps understand user concerns |
+| 🧠 Smart Guidance | AI-based response handling |
+| 🛠️ Stack | `AI APIs` · `JavaScript` · `NLP` |
+
+---
+
+### 🏎️ [F1 Analytics Dashboard](https://github.com/MohitKB22/F1-analytics-dashboard)
+> An interactive analytics dashboard for exploring Formula 1 data, trends, and performance insights.
+
+| Feature | Details |
+|---|---|
+| 📊 Data Visualization | Clear analytics and performance charts |
+| 🏁 F1 Insights | Race and driver analysis |
+| ⚡ Interactive UI | Dynamic dashboard experience |
 | 🛠️ Stack | `Python` · `Streamlit` · `Pandas` · `Plotly` |
 
 ---
 
-### 🩺 [Care AI Engine](https://github.com/MohitKB22/care-ai-engine)
-> AI-powered healthcare chatbot for **symptom analysis**, medical guidance, and patient support.
+### 📄 [AI-Based Resume Analyser](https://github.com/MohitKB22/AI-BASED-RESUME-ANALYSER)
+> An AI resume analysis tool that evaluates resumes and provides intelligent suggestions for improvement.
 
 | Feature | Details |
 |---|---|
-| 💬 Interface | Conversational AI for healthcare Q&A |
-| 🔎 Analysis | Symptom understanding & intelligent routing |
-| 🛠️ Stack | `JavaScript` · `NLP` · AI APIs |
+| 🧠 Resume Intelligence | Automated resume evaluation |
+| ✍️ Feedback Engine | Suggests improvements and optimizations |
+| 📑 Document Analysis | Parses and analyzes resume content |
+| 🛠️ Stack | `AI/ML` · `Python` · `NLP` |
 
 ---
 
-### 🔬 [Fingerprint Blood Group Prediction](https://github.com/MohitKB22/Fingerprint-Based-BloodGroup-Prediction)
-> A deep learning project predicting **blood group from fingerprint images** using CNNs.
+### 📊 [Stock Analytics Hub](https://github.com/MohitKB22/stock-analytics-hub)
+> A real-time stock analytics dashboard for visualizing market trends and generating actionable insights.
 
 | Feature | Details |
 |---|---|
-| 🧬 Research | Biometric patterns correlated with blood groups |
-| 🤖 Model | End-to-end CNN from image preprocessing to classification |
-| 🛠️ Stack | `Python` · `TensorFlow/Keras` · `OpenCV` |
-
-> 💡 **More projects loading...** — share your latest repo names + descriptions to get them added here!
+| 📈 Market Analytics | Tracks stock and index movements |
+| 📉 Trend Analysis | Interactive charts and insights |
+| ⚡ Real-Time Data | Live visualization experience |
+| 🛠️ Stack | `Python` · `Streamlit` · `Pandas` · `Plotly` |
 
 ---
 
