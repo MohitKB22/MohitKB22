@@ -239,33 +239,43 @@ flowchart TD
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&include_all_commits=true&count_private=true"/>
 
-<img src="https://streak-stats.demolab.com?user=MohitKB22&theme=tokyonight&hide_border=true" height="180em"/>
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=MohitKB22&theme=github-dark-blue&hide_border=true&border_radius=12"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=github_dark&hide_border=true&border_radius=12&langs_count=8"/>
+
+<img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitKB22&theme=github_dark&utcOffset=5.5"/>
 
 </div>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=github-dark&hide_border=true&radius=12&area=true"/>
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repos
+## 🔝 Contribution Overview
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=tokyonight"/>
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=github_dark"/>
 
 </div>
 
