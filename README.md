@@ -342,8 +342,6 @@ flowchart TD
 
 <br/><br/>
 
-</div>
-
 ### ⚡ *"Turning Ideas into Intelligent Systems."*
 
 </div>
