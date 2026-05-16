@@ -259,31 +259,51 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 
 ---
 
-## 🏗️ System Architecture (RAG Reference)
+## 🏗️ LLM System Architecture
 
 ```mermaid
 flowchart TD
-    A["📄 PDF Input\nText · Images · Tables"]
-    B["🔀 Multimodal Parser\npdfplumber · PyMuPDF"]
-    C1["📝 Text Index\nFAISS + Embeddings"]
-    C2["🖼️ Image Index\nGPT-4V Captions"]
-    C3["📊 Table Index\nStructured Extraction"]
-    D["🧭 Query Router\nSemantic Classification"]
-    E["⚡ Generator\nGPT-4o · LangChain"]
-    F["✅ Final Answer"]
+
+    A["👤 User Query"]
+    
+    B["🧠 Agentic Planner
+    Task Decomposition · Reasoning"]
+
+    C1["🌐 Web Search
+    Live Information Retrieval"]
+
+    C2["📚 Knowledge Base
+    Vector Store · FAISS"]
+
+    C3["📄 Document Processing
+    PDF Parsing · Chunking"]
+
+    D["🔎 Retrieval Layer
+    Semantic Search"]
+
+    E["⚡ LLM Orchestrator
+    GPT-4o · LangChain"]
+
+    F["🛠️ Tool Execution
+    APIs · Python · External Tools"]
+
+    G["✅ Context-Aware Response"]
 
     A --> B
     B --> C1
     B --> C2
     B --> C3
+
     C1 --> D
     C2 --> D
     C3 --> D
+
     D --> E
     E --> F
-```
+    F --> G
 
 ---
+
 ## 📊 GitHub Stats
 
 <div align="center">
