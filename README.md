@@ -1,6 +1,8 @@
-<div align="center">
+div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=220&section=header&text=Mohit%20Barse&fontSize=65&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%7C%20RAG%20Systems%20%7C%20Multimodal%20AI%20%7C%20Data-Driven%20Applications&descAlignY=60&descSize=15" alt="header" />
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=4FACFE&center=true&vCenter=true&multiline=true&width=700&height=100&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Building+RAG+Pipelines+%26+Multimodal+AI+%F0%9F%9A%80;Turning+Research+into+Production-Ready+Systems+%E2%9C%85)](https://git.io/typing-svg)
 
 <p>
   <a href="https://www.linkedin.com/in/mohit-b-9a997b301/">
@@ -17,11 +19,15 @@
   </a>
 </p>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="90%" />
+
 </div>
 
 ---
 
 ## 🧠 About Me
+
+<img align="right" alt="Coding" width="360" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
 
 > *"I don't just build models — I focus on building **usable AI systems**."*
 
@@ -30,32 +36,45 @@ I'm an **AI/ML Engineer** passionate about turning complex research into product
 - 🔭 Currently building advanced **RAG pipelines** & **multimodal AI applications**
 - 🌱 Deepening expertise in **MLOps**, **FastAPI** deployment workflows, and model lifecycle management
 - 🎯 Goal: Become an industry-ready AI Engineer owning the full pipeline — from data ingestion to intelligent output
-- ✍️ I occasionally share AI/ML insights and engineering thoughts on **[X (@mohitkb22)](https://x.com/mohitkb22)**
+- ✍️ I occasionally share AI/ML insights on **[X (@mohitkb22)](https://x.com/mohitkb22)**
 - ⚡ Fun fact: I enjoy turning complex problems into simple, working solutions 🚀
+
+<br clear="right"/>
 
 ---
 
 ## 🛠️ Tech Stack
 
+### Languages & Frameworks
 <div align="center">
 
-### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
 
+</div>
+
 ### AI / ML
+<div align="center">
+
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+
+</div>
 
 ### Tools & Infrastructure
+<div align="center">
+
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
 
@@ -151,6 +170,32 @@ flowchart TD
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&area=true&hide_border=true" width="100%" />
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=tokyonight" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohitKB22/MohitKB22/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohitKB22/MohitKB22/output/github-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MohitKB22/MohitKB22/output/github-snake.svg">
+</picture>
+
+</div>
+
+---
+
+### ✍️ Dev Quote of the Day
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
 </div>
 
 ---
@@ -182,6 +227,8 @@ flowchart TD
 ---
 
 <div align="center">
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,50:2a5298,100:4facfe&height=100&section=footer" alt="footer"/>
 
