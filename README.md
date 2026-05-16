@@ -265,16 +265,6 @@ flowchart TD
 
 ---
 
-## 📅 Contribution Calendar
-
-<div align="center">
-
-<img src="https://ghchart.rshah.org/58A6FF/MohitKB22" width="100%" alt="MohitKB22 Contribution Calendar"/>
-
-</div>
-
----
-
 ## 🏆 GitHub Achievements
 
 <div align="center">
