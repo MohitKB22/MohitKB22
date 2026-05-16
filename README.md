@@ -76,13 +76,10 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 <div align="center">
 
 <a href="https://www.python.org/" target="_blank"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank"><img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" height="40"/></a>
-<a href="https://en.cppreference.com/w/c" target="_blank"><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" height="40"/></a>
 <a href="https://www.javascript.com/" target="_blank"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" height="40"/></a>
 <a href="https://www.java.com/" target="_blank"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" height="40"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" height="40"/></a>
-<a href="https://www.php.net/" target="_blank"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" height="40"/></a>
 
 </div>
 
@@ -124,16 +121,6 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 
 </div>
 
-### 🎨 Design & Creative Tools
-<div align="center">
-
-<a href="https://www.canva.com/" target="_blank"><img src="https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" height="40"/></a>
-<a href="https://www.adobe.com/products/photoshop.html" target="_blank"><img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="40"/></a>
-<a href="https://inkscape.org/" target="_blank"><img src="https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13" height="40"/></a>
-<a href="https://proto.io/" target="_blank"><img src="https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff" height="40"/></a>
-
-</div>
-
 ### 🔌 Hardware & IoT
 <div align="center">
 
@@ -156,8 +143,6 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 <a href="https://powerbi.microsoft.com/" target="_blank"><img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="40"/></a>
 <a href="https://unity.com/" target="_blank"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" height="40"/></a>
 <a href="https://storybook.js.org/" target="_blank"><img src="https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" height="40"/></a>
-<a href="https://miro.com/" target="_blank"><img src="https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=miro&logoColor=yellow" height="40"/></a>
-<a href="https://balsamiq.com/" target="_blank"><img src="https://img.shields.io/badge/Balsamiq-CC0000?style=for-the-badge&logo=balsamiq&logoColor=white" height="40"/></a>
 <a href="https://openai.com/" target="_blank"><img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" height="40"/></a>
 <a href="https://groq.com/" target="_blank"><img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logo=groq&logoColor=white" height="40"/></a>
 <a href="https://huggingface.co/" target="_blank"><img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" height="40"/></a>
