@@ -310,19 +310,17 @@ flowchart TD
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6&exclude=Issues,PullRequest,Reviews,PullRequestReview" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=onestar&no-frame=true&no-bg=true&margin-w=18&margin-h=18&row=1&column=4&title=Stars,Followers,Repositories,Commits,Experience,MultiLanguage" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=620&lines=Consistency+%E2%80%A2+Innovation+%E2%80%A2+Open+Source;Building+AI+Systems+with+Real-World+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=650&lines=Consistency+%E2%80%A2+Innovation+%E2%80%A2+Open+Source;Building+Intelligent+Systems+for+Real-World+Impact" />
 
 </div>
-
----
 
 ---
 
