@@ -6,10 +6,12 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="78%" />
 
+<br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&color=0ea5e9&style=flat-square" />
-  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=flat-square&color=111827&logo=github" />
-  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&style=flat-square&color=1d4ed8&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
+  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&color=111827&logo=github" />
+  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&label=Stars&style=for-the-badge&color=1d4ed8&logo=github" />
 </p>
 
 </div>
@@ -21,20 +23,22 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/mohit-b-9a997b301/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="https://x.com/mohitkb22">
-  <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+
 <a href="https://github.com/MohitKB22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
+
 <a href="mailto:mohitbarse2230@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
-
 ---
 
 ## 🧠 About Me
