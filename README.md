@@ -314,11 +314,11 @@ flowchart TD
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=7" />
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=onestar&no-frame=true&no-bg=true&margin-w=15&margin-h=15&row=1&column=6&exclude=Issues,PullRequest,Reviews" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=600&lines=Consistency+%E2%80%A2+Innovation+%E2%80%A2+Open+Source;Building+AI+Systems+with+Real-World+Impact" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1200&color=E6EDF3&center=true&vCenter=true&width=620&lines=Consistency+%E2%80%A2+Innovation+%E2%80%A2+Open+Source;Building+AI+Systems+with+Real-World+Impact" />
 
 </div>
 
@@ -328,11 +328,47 @@ flowchart TD
 
 <div align="center">
 
-| 🤖 AI/ML Projects | 🛠️ Full-Stack AI Apps | 📦 Open Source | 💡 Hackathons |
-|:---:|:---:|:---:|:---:|
-| RAG systems, LLM apps, real-world impact | End-to-end from data to interface | Python, AI tooling, ML utilities | Rapid prototyping & innovation sprints |
+<table>
+<tr>
+<td align="center" width="25%">
+
+### 🤖 AI Systems  
+RAG pipelines, LLM applications, agentic workflows, and scalable AI solutions.
+
+</td>
+
+<td align="center" width="25%">
+
+### 🛠️ Full-Stack AI  
+FastAPI backends, vector databases, AI integrations, and production-ready apps.
+
+</td>
+
+<td align="center" width="25%">
+
+### 📦 Open Source  
+AI tooling, developer utilities, automation workflows, and community-driven projects.
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡ Innovation  
+Hackathons, rapid prototyping, research-driven builds, and startup-oriented ideas.
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://img.shields.io/badge/Focused%20On-Agentic%20AI-111827?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Open%20Source-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
+
+---
 
 ---
 
