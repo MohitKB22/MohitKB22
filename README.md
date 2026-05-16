@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:090979,50:111827,100:000000&text=Mohit%20Barse&fontColor=ffffff&fontSize=54&fontAlignY=36&desc=AI%20Engineer%20•%20Agentic%20AI%20•%20RAG%20Systems&descSize=16&descAlignY=56&animation=fadeIn" width="100%" />
-
-<p align="center">
-<a href="#">
-  <img width="720px" src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&lines=Building+Scalable+AI+Applications+🚀;Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Engineering;FastAPI+Backends+%7C+Vector+Databases;Open+to+Collaboration+and+Innovation+⚡" />
-</a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="74%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:0D1117,50:161B22,100:1F6FEB&text=Mohit%20Barse&fontColor=FFFFFF&fontSize=48&fontAlignY=35&desc=AI%20Engineer%20•%20RAG%20Systems%20•%20LLM%20Apps&descSize=15&descAlignY=55&animation=fadeIn" width="100%" />
 
 <br/>
 
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3000&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications+🚀;Agentic+AI+%7C+RAG+%7C+FastAPI;Open+Source+%7C+Scalable+Systems" />
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="70%" />
+
+<br/><br/>
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&color=111827&logo=github" />
-  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&label=Stars&style=for-the-badge&color=1d4ed8&logo=github" />
+  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile+Views&style=flat-square&color=1F6FEB" />
+  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=flat-square&color=21262D&logo=github" />
+  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&label=Stars&style=flat-square&color=1F6FEB&logo=github" />
 </p>
 
 </div>
@@ -31,11 +31,11 @@
 </a>
 
 <a href="https://x.com/mohitkb22">
-  <img src="https://img.shields.io/badge/X-111827?style=for-the-badge&logo=x&logoColor=white" />
+  <img src="https://img.shields.io/badge/X-0D1117?style=for-the-badge&logo=x&logoColor=white" />
 </a>
 
 <a href="https://github.com/MohitKB22">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <a href="mailto:mohitbarse2230@gmail.com">
