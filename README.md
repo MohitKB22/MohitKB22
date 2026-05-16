@@ -1,26 +1,16 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,40:111827,75:1E3A8A,100:2563EB&text=Mohit%20Barse&fontColor=FFFFFF&fontSize=72&fontAlignY=36&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architecture%20%7C%20Multimodal%20AI&descSize=20&descAlignY=58&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:090979,50:111827,100:000000&text=Mohit%20Barse&fontColor=ffffff&fontSize=60&fontAlignY=38&desc=AI%20Engineer%20•%20Agentic%20AI%20•%20RAG%20Systems%20•%20Multimodal%20Applications&descSize=18&descAlignY=58&animation=fadeIn" width="100%" />
 
-<br/>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+AI+Applications;Agentic+Workflows+%7C+RAG+Pipelines+%7C+LLM+Engineering;FastAPI+Backends+%7C+Vector+Databases+%7C+AI+Infrastructure)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Designing+Scalable+AI+Products+for+Real-World+Impact;Building+Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Applications;Transforming+Research+into+Production-Ready+Systems;FastAPI+Backends+%7C+Vector+Databases+%7C+AI+Infrastructure)](https://git.io/typing-svg)
+<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="78%" />
 
-<br/>
-
-<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="80%" />
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&color=2563EB&style=for-the-badge" />
-
-<a href="https://github.com/MohitKB22">
-  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&color=111827&logo=github" />
-</a>
-
-<a href="https://github.com/MohitKB22?tab=repositories">
-  <img src="https://img.shields.io/badge/Projects-AI%20%26%20ML-blue?style=for-the-badge&logo=googlecloud" />
-</a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&color=0ea5e9&style=flat-square" />
+  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=flat-square&color=111827&logo=github" />
+  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&style=flat-square&color=1d4ed8&logo=github" />
+</p>
 
 </div>
 
@@ -30,10 +20,18 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohit-b-9a997b301/)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://x.com/mohitkb22)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohitKB22)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohitbarse2230@gmail.com)
+<a href="https://www.linkedin.com/in/mohit-b-9a997b301/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://x.com/mohitkb22">
+  <img src="https://img.shields.io/badge/X-111827?style=flat-square&logo=x&logoColor=white" />
+</a>
+<a href="https://github.com/MohitKB22">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+<a href="mailto:mohitbarse2230@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
 
 </div>
 
