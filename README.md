@@ -13,9 +13,15 @@
 <br/>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
-  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&color=111827&logo=github" />
-  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&label=Stars&style=for-the-badge&color=1d4ed8&logo=github" />
+
+<img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&style=for-the-badge&color=2563eb" />
+
+<img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&logo=github&color=111827" />
+
+<img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&label=Total%20Stars&style=for-the-badge&logo=github&color=1d4ed8" />
+
+<img src="https://img.shields.io/github/last-commit/MohitKB22/stock-analytics-hub?label=Last%20Active&style=for-the-badge&logo=github&color=0f172a" />
+
 </p>
 
 </div>
