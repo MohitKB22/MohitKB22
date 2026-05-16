@@ -321,7 +321,6 @@ Hackathons, rapid prototyping, research-driven builds, and startup-oriented idea
 
 ---
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:000000,50:111827,100:090979&section=footer" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3500&pause=1000&color=E6EDF3&center=true&vCenter=true&width=760&lines=Building+AI+Systems+That+Create+Real-World+Impact;From+Research+to+Production-Ready+Applications;Engineering+Scalable+Intelligence+for+the+Future" />
 
