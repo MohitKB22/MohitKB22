@@ -1,10 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,40:302b63,100:24243e&height=240&section=header&text=Mohit%20Barse&fontSize=70&fontColor=ffffff&fontAlignY=36&desc=AI%20%2F%20ML%20Engineer%20%7C%20RAG%20Systems%20%7C%20Multimodal%20AI%20%7C%20LLM%20Applications&descAlignY=58&descSize=16&animation=fadeIn" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0B1026,40:111827,75:1E3A8A,100:2563EB&text=Mohit%20Barse&fontColor=FFFFFF&fontSize=72&fontAlignY=36&desc=AI%20Engineer%20%7C%20Agentic%20Systems%20%7C%20RAG%20Architecture%20%7C%20Multimodal%20AI&descSize=20&descAlignY=58&animation=fadeIn" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&multiline=true&width=750&height=90&lines=Building+Production-Ready+AI+Systems+%F0%9F%A4%96;RAG+Pipelines+%7C+Multimodal+AI+%7C+FastAPI+Backends+%F0%9F%9A%80;From+Research+Paper+to+Deployed+System+%E2%9C%85)](https://git.io/typing-svg)
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="85%" />
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=22&duration=3200&pause=1000&color=60A5FA&center=true&vCenter=true&width=900&lines=Designing+Scalable+AI+Products+for+Real-World+Impact;Building+Agentic+AI+%7C+RAG+Pipelines+%7C+LLM+Applications;Transforming+Research+into+Production-Ready+Systems;FastAPI+Backends+%7C+Vector+Databases+%7C+AI+Infrastructure)](https://git.io/typing-svg)
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="80%" />
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&color=2563EB&style=for-the-badge" />
+
+<a href="https://github.com/MohitKB22">
+  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&color=111827&logo=github" />
+</a>
+
+<a href="https://github.com/MohitKB22?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-AI%20%26%20ML-blue?style=for-the-badge&logo=googlecloud" />
+</a>
 
 </div>
 
