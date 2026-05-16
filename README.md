@@ -1,18 +1,22 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=250&color=gradient&customColorList=12,20,24,30&text=Mohit%20Barse&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Agentic%20Systems%20•%20LLM%20Applications&descAlignY=60&descSize=18"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=240&color=gradient&customColorList=6,12,20,24&text=Mohit%20Barse&fontSize=60&fontColor=F8FAFC&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Agentic%20Systems%20•%20LLM%20Applications&descAlignY=60&descSize=19"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&duration=2500&color=79C0FF&center=true&vCenter=true&width=520&lines=Building+AI+Products+for+Real+Impact;RAG+Pipelines+%7C+FastAPI+%7C+LLMs;Open+Source+Developer+⚡" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=1200&color=C9D1D9&center=true&vCenter=true&width=720&lines=Building+Production-Ready+AI+Applications;Agentic+AI+%7C+RAG+Pipelines+%7C+FastAPI;Open+Source+Developer+Focused+on+Scalable+Systems" />
 
 <br/><br/>
 
-<img src="https://github-widgetbox.vercel.app/api/profile?username=MohitKB22&data=followers,repositories,stars,commits&theme=darkmode" />
+<img src="https://user-images.githubusercontent.com/74038190/212284087-8a1212d1-6900-479c-8d5e-d7cbbf0c4b8b.gif" width="72%" />
 
 <br/><br/>
 
-<img src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/dev-working_rounded.gif" width="260"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&style=for-the-badge&color=2563EB" />
+  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&color=1F2937&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/github/stars/MohitKB22?affiliations=OWNER&label=Stars&style=for-the-badge&color=0F172A&logo=github&logoColor=white" />
+</p>
 
 </div>
 
