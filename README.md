@@ -116,7 +116,7 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 <div align="center">
 
 <a href="https://www.mysql.com/" target="_blank"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" height="40"/></a>
-<a href="https://www.sqlite.org/" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/></a>
+<a href="https://www.sql.org/" target="_blank"><img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" height="40"/></a>
 <a href="https://aws.amazon.com/dynamodb/" target="_blank"><img src="https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white" height="40"/></a>
 
 </div>
@@ -126,7 +126,6 @@ I'm an **AI/ML Engineer** passionate about transforming cutting-edge research in
 
 <a href="https://en.wikipedia.org/wiki/Robotics" target="_blank"><img src="https://img.shields.io/badge/-Robotics-FF6F00?style=for-the-badge&logo=robotframework&logoColor=white" height="40"/></a>
 <a href="https://en.wikipedia.org/wiki/Internet_of_things" target="_blank"><img src="https://img.shields.io/badge/-IoT-00C853?style=for-the-badge&logo=internetofthings&logoColor=white" height="40"/></a>
-<a href="https://en.wikipedia.org/wiki/Microcontroller" target="_blank"><img src="https://img.shields.io/badge/-Microcontroller-607D8B?style=for-the-badge&logo=chip&logoColor=white" height="40"/></a>
 <a href="https://www.nvidia.com/" target="_blank"><img src="https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white" height="40"/></a>
 
 </div>
