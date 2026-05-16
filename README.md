@@ -271,16 +271,6 @@ flowchart TD
 
 ---
 
-## 🔥 Streak Statistics
-
-<div align="center">
-
-<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## 📅 Contribution Calendar
 
 <div align="center">
