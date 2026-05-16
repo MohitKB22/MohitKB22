@@ -239,35 +239,23 @@ flowchart TD
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=79C0FF&text_color=C9D1D9&border_radius=14&include_all_commits=true&count_private=true" height="190em"/>
-</td>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-<td>
-<img src="https://streak-stats.demolab.com?user=MohitKB22&theme=github-dark-blue&hide_border=true&border_radius=14&background=0D1117&ring=58A6FF&fire=79C0FF&currStreakLabel=C9D1D9" height="190em"/>
-</td>
-</tr>
-</table>
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&theme=tokyonight&hide_border=true" />
+
+</div>
 
 <br/>
 
-<table>
-<tr>
-<td>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=14&langs_count=8" height="170em"/>
-</td>
+<div align="center">
 
-<td>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=MohitKB22&theme=github_dark" height="170em"/>
-</td>
-</tr>
-</table>
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+
+<img width="56%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=tokyonight" />
 
 </div>
 
@@ -277,17 +265,27 @@ flowchart TD
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=github-dark&bg_color=0D1117&hide_border=true&line=58A6FF&point=79C0FF&color=C9D1D9&area=true&radius=12"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
 
 ---
 
-## 🔝 Contribution Overview
+## 🔥 Streak Statistics
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=github_dark"/>
+<img width="85%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58A6FF/MohitKB22" alt="MohitKB22 Contribution Calendar" width="100%"/>
 
 </div>
 
