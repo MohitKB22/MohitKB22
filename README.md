@@ -362,13 +362,7 @@ Hackathons, rapid prototyping, research-driven builds, and startup-oriented idea
 
 <br/>
 
-<img src="https://img.shields.io/badge/Focused%20On-Agentic%20AI-111827?style=for-the-badge" />
-<img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Open%20Source-0F172A?style=for-the-badge&logo=github&logoColor=white" />
-
 </div>
-
----
 
 ---
 
