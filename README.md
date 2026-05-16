@@ -338,12 +338,6 @@ flowchart TD
 
 <br/><br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Focused%20On-Agentic%20AI-111827?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG%20Systems-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LLM%20Engineering-0F172A?style=for-the-badge" />
-</p>
-
 ### ⚡ *"Turning Ideas into Intelligent Systems."*
 
 </div>
