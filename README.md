@@ -243,17 +243,33 @@ flowchart TD
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=MohitKB22&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=MohitKB22&theme=tokyonight&hide_border=true" />
+
+<br/><br/>
+
+<img width="60%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=tokyonight" />
 
 </div>
 
 ---
 
-## 🔝 Top Contributed Repositories
+## 📈 Contribution Graph
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MohitKB22&theme=tokyonight"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true&area=true"/>
+
+</div>
+
+---
+
+## 📅 Contribution Calendar
+
+<div align="center">
+
+<img src="https://ghchart.rshah.org/58A6FF/MohitKB22" width="100%" alt="MohitKB22 Contribution Calendar"/>
 
 </div>
 
