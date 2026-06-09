@@ -12,8 +12,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohitKB22&label=Profile%20Views&style=for-the-badge&color=0f172a&labelColor=1e3a5f" />
-  <img src="https://img.shields.io/github/followers/MohitKB22?label=Followers&style=for-the-badge&logo=github&color=0f172a&labelColor=1e293b" />
   <img src="https://img.shields.io/badge/Open%20To%20Work-Available-22c55e?style=for-the-badge&labelColor=14532d" />
 </p>
 
@@ -204,79 +202,6 @@ flowchart TD
     F --> G
 ```
 
-### RAG System Architecture
-
-```mermaid
-flowchart LR
-    subgraph Ingestion["📥 Ingestion Pipeline"]
-        D1["PDFs / Docs"]
-        D2["Web Pages"]
-        D3["Databases"]
-        CH["Chunking\nStrategy"]
-        EM["Embedding\nModel"]
-        VS["Vector\nStore"]
-        D1 & D2 & D3 --> CH --> EM --> VS
-    end
-
-    subgraph Retrieval["🔎 Retrieval Pipeline"]
-        Q["User Query"]
-        QE["Query\nEmbedding"]
-        SS["Semantic\nSearch"]
-        RR["Re-Ranker"]
-        CX["Context\nBuilder"]
-        Q --> QE --> SS --> RR --> CX
-    end
-
-    subgraph Generation["⚡ Generation Pipeline"]
-        PR["Prompt\nTemplate"]
-        LM["LLM\n(GPT-4o / Llama)"]
-        OP["Structured\nOutput"]
-        PR --> LM --> OP
-    end
-
-    VS --> SS
-    CX --> PR
-```
-
-### Multi-Agent Workflow
-
-```mermaid
-flowchart TD
-    OA["🎯 Orchestrator Agent\nGoal Decomposition"]
-    RA["🔎 Research Agent\nWeb Search · Knowledge Base"]
-    PA["📋 Planning Agent\nStrategy · Scheduling"]
-    EA["⚙️ Execution Agent\nAPI Calls · Tool Use"]
-    QA["✅ QA Agent\nValidation · Fact-Check"]
-    ME["🧠 Memory Engine\nShort-Term · Long-Term"]
-    OUT["📤 Final Output\nStructured Response"]
-
-    OA --> RA & PA
-    RA --> EA
-    PA --> EA
-    EA --> QA
-    QA -->|Passed| OUT
-    QA -->|Retry| OA
-    ME <--> OA & RA & PA & EA
-```
-
-### MLOps Pipeline
-
-```mermaid
-flowchart LR
-    DI["📥 Data\nIngestion"]
-    DV["✅ Data\nValidation"]
-    FE["🔨 Feature\nEngineering"]
-    MT["🏋️ Model\nTraining"]
-    EV["📊 Evaluation\n& Metrics"]
-    RE["📋 Model\nRegistry"]
-    DP["🚀 Deployment\nFastAPI"]
-    MO["📈 Monitoring\n& Alerting"]
-
-    DI --> DV --> FE --> MT --> EV -->|Pass| RE --> DP --> MO
-    EV -->|Fail| MT
-    MO -->|Drift Detected| DI
-```
-
 ---
 
 ## 📊 GitHub Stats
@@ -298,24 +223,6 @@ flowchart LR
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true&area=true&point=38bdf8&line=818cf8&color=e2e8f0" />
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/MohitKB22/MohitKB22/blob/output/github-contribution-grid-snake.gif" width="100%"/>
-</div>
-
-<!-- Snake setup: Create .github/workflows/snake.yml with the YAML below -->
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=MohitKB22&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6" />
 </div>
 
 ---
@@ -388,30 +295,6 @@ Hackathons, rapid prototyping, research builds, startup ideas
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-## 📬 Recruiter Contact Card
-
-<div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                       MOHIT BARSE                           │
-│               AI/ML Engineer · Available Now                │
-├─────────────────────────────────────────────────────────────┤
-│  📧  mohitbarse2230@gmail.com                               │
-│  💼  linkedin.com/in/mohit-b-9a997b301                      │
-│  🐦  x.com/mohitkb22                                        │
-│  🐙  github.com/MohitKB22                                   │
-│  📍  India · Open to Remote & Relocation                    │
-├─────────────────────────────────────────────────────────────┤
-│  ✅  Full-Time Roles          ✅  Freelance AI Projects     │
-│  ✅  Research Collaborations  ✅  Open Source Contributions │
-└─────────────────────────────────────────────────────────────┘
-```
 
 </div>
 
