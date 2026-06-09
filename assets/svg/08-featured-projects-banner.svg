@@ -1,0 +1,25 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="fp-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#0c2a4a"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="fp-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="75%" stop-color="#38bdf8" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" rx="12" fill="url(#fp-bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="79" rx="11.5" fill="none" stroke="url(#fp-border)" stroke-width="1"/>
+  <text x="54" y="45" font-family="'Segoe UI',sans-serif" font-size="20">🚀</text>
+  <text x="90" y="32" font-family="'Segoe UI',system-ui,sans-serif" font-size="17" font-weight="700" fill="#e2e8f0">Featured Projects</text>
+  <text x="90" y="55" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#64748b">Production-grade AI applications built with real-world impact in mind</text>
+  <!-- Right pills -->
+  <rect x="680" y="24" width="80" height="22" rx="11" fill="#0c1d2e" stroke="#38bdf8" stroke-width="0.5"/>
+  <text x="720" y="39" font-family="'Segoe UI',sans-serif" font-size="10" fill="#38bdf8" text-anchor="middle">Agentic AI</text>
+  <rect x="770" y="24" width="60" height="22" rx="11" fill="#0c1d2e" stroke="#818cf8" stroke-width="0.5"/>
+  <text x="800" y="39" font-family="'Segoe UI',sans-serif" font-size="10" fill="#818cf8" text-anchor="middle">RAG</text>
+</svg>

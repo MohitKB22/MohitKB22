@@ -1,0 +1,88 @@
+<svg width="900" height="290" viewBox="0 0 900 290" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="db-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="db-top" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="bar-py" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="bar-rag" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+    <linearGradient id="bar-api" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="bar-ml" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="290" rx="14" fill="url(#db-bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="289" rx="13.5" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="900" height="3" rx="1" fill="url(#db-top)"/>
+  <!-- Header -->
+  <text x="24" y="34" font-family="'JetBrains Mono',monospace" font-size="12" fill="#38bdf8" font-weight="600">⚡ AI ENGINEERING DASHBOARD — Mohit Barse</text>
+  <text x="24" y="52" font-family="'Segoe UI',system-ui,sans-serif" font-size="11" fill="#475569">github.com/MohitKB22  ·  ML Engineer  ·  Agentic AI  ·  RAG Systems</text>
+  <line x1="24" y1="62" x2="876" y2="62" stroke="#1e3a5f" stroke-width="0.5"/>
+  <!-- Stat cards -->
+  <!-- Card 1 -->
+  <rect x="24" y="74" width="134" height="66" rx="8" fill="#0c1d2e" stroke="#1e3a5f" stroke-width="0.5"/>
+  <text x="40" y="100" font-family="'Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#38bdf8">12+</text>
+  <text x="40" y="118" font-family="'Segoe UI',sans-serif" font-size="10" fill="#64748b">AI Projects</text>
+  <text x="40" y="131" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Shipped to Production</text>
+  <!-- Card 2 -->
+  <rect x="166" y="74" width="134" height="66" rx="8" fill="#0c1d2e" stroke="#1e3a5f" stroke-width="0.5"/>
+  <text x="182" y="100" font-family="'Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#818cf8">5+</text>
+  <text x="182" y="118" font-family="'Segoe UI',sans-serif" font-size="10" fill="#64748b">RAG Pipelines</text>
+  <text x="182" y="131" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">End-to-End Built</text>
+  <!-- Card 3 -->
+  <rect x="308" y="74" width="134" height="66" rx="8" fill="#0c1d2e" stroke="#1e3a5f" stroke-width="0.5"/>
+  <text x="324" y="100" font-family="'Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#34d399">3+</text>
+  <text x="324" y="118" font-family="'Segoe UI',sans-serif" font-size="10" fill="#64748b">Agent Systems</text>
+  <text x="324" y="131" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Multi-Agent Workflows</text>
+  <!-- Card 4 -->
+  <rect x="450" y="74" width="134" height="66" rx="8" fill="#0c1d2e" stroke="#1e3a5f" stroke-width="0.5"/>
+  <text x="466" y="100" font-family="'Segoe UI',sans-serif" font-size="26" font-weight="700" fill="#fb923c">8+</text>
+  <text x="466" y="118" font-family="'Segoe UI',sans-serif" font-size="10" fill="#64748b">APIs Deployed</text>
+  <text x="466" y="131" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">FastAPI Production</text>
+  <!-- Card 5 (Available) -->
+  <rect x="592" y="74" width="284" height="66" rx="8" fill="#0c2014" stroke="#22c55e" stroke-width="0.8"/>
+  <circle cx="618" cy="107" r="8" fill="#22c55e" fill-opacity="0.3"/>
+  <circle cx="618" cy="107" r="5" fill="#22c55e"/>
+  <text x="636" y="98" font-family="'Segoe UI',sans-serif" font-size="15" font-weight="700" fill="#86efac">AVAILABLE NOW</text>
+  <text x="636" y="116" font-family="'Segoe UI',sans-serif" font-size="11" fill="#4ade80">Open to Full-Time · Freelance · Research</text>
+  <text x="636" y="132" font-family="'Segoe UI',sans-serif" font-size="10" fill="#166534">India · Remote OK · Open to Relocation</text>
+  <!-- Skill bars header -->
+  <text x="24" y="170" font-family="'Segoe UI',sans-serif" font-size="11" fill="#64748b" font-weight="600" letter-spacing="1">SKILL PROFICIENCY</text>
+  <!-- Bar: Python/ML -->
+  <text x="24" y="190" font-family="'Segoe UI',sans-serif" font-size="11" fill="#94a3b8">Python / ML</text>
+  <rect x="160" y="179" width="660" height="11" rx="5.5" fill="#1e293b"/>
+  <rect x="160" y="179" width="561" height="11" rx="5.5" fill="url(#bar-py)"/>
+  <text x="830" y="190" font-family="'Segoe UI',sans-serif" font-size="10" fill="#38bdf8">85%</text>
+  <!-- Bar: RAG/LLM -->
+  <text x="24" y="212" font-family="'Segoe UI',sans-serif" font-size="11" fill="#94a3b8">RAG / LLM Eng.</text>
+  <rect x="160" y="201" width="660" height="11" rx="5.5" fill="#1e293b"/>
+  <rect x="160" y="201" width="495" height="11" rx="5.5" fill="url(#bar-rag)"/>
+  <text x="830" y="212" font-family="'Segoe UI',sans-serif" font-size="10" fill="#818cf8">75%</text>
+  <!-- Bar: FastAPI -->
+  <text x="24" y="234" font-family="'Segoe UI',sans-serif" font-size="11" fill="#94a3b8">FastAPI / Backend</text>
+  <rect x="160" y="223" width="660" height="11" rx="5.5" fill="#1e293b"/>
+  <rect x="160" y="223" width="429" height="11" rx="5.5" fill="url(#bar-api)"/>
+  <text x="830" y="234" font-family="'Segoe UI',sans-serif" font-size="10" fill="#34d399">65%</text>
+  <!-- Bar: MLOps -->
+  <text x="24" y="256" font-family="'Segoe UI',sans-serif" font-size="11" fill="#94a3b8">MLOps / DevOps</text>
+  <rect x="160" y="245" width="660" height="11" rx="5.5" fill="#1e293b"/>
+  <rect x="160" y="245" width="363" height="11" rx="5.5" fill="url(#bar-ml)"/>
+  <text x="830" y="256" font-family="'Segoe UI',sans-serif" font-size="10" fill="#fb923c">55%</text>
+  <!-- Footer -->
+  <line x1="24" y1="268" x2="876" y2="268" stroke="#1e3a5f" stroke-width="0.5"/>
+  <text x="24" y="282" font-family="'JetBrains Mono',monospace" font-size="9" fill="#334155">mohitbarse2230@gmail.com  ·  github.com/MohitKB22  ·  linkedin.com/in/mohit-b-9a997b301</text>
+</svg>

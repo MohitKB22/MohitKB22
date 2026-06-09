@@ -1,0 +1,54 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cert-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="cert-top" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="50%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#fb923c"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="14" fill="url(#cert-bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="13.5" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="900" height="3" rx="1" fill="url(#cert-top)"/>
+  <text x="24" y="32" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">🎓 Certifications &amp; Achievements</text>
+  <line x1="24" y1="44" x2="876" y2="44" stroke="#1e3a5f" stroke-width="0.5"/>
+  <!-- Cert cards row 1 -->
+  <rect x="24" y="56" width="160" height="60" rx="8" fill="#0c1d2e" stroke="#f59e0b" stroke-width="0.6"/>
+  <text x="34" y="76" font-family="'Segoe UI',sans-serif" font-size="18">☁️</text>
+  <text x="58" y="76" font-family="'Segoe UI',sans-serif" font-size="11" font-weight="600" fill="#fcd34d">AWS</text>
+  <text x="34" y="92" font-family="'Segoe UI',sans-serif" font-size="9" fill="#94a3b8">Cloud Practitioner</text>
+  <text x="34" y="107" font-family="'JetBrains Mono',monospace" font-size="8" fill="#f59e0b">🔄 In Progress</text>
+
+  <rect x="196" y="56" width="160" height="60" rx="8" fill="#0c1d2e" stroke="#38bdf8" stroke-width="0.6"/>
+  <text x="206" y="76" font-family="'Segoe UI',sans-serif" font-size="18">🤖</text>
+  <text x="232" y="76" font-family="'Segoe UI',sans-serif" font-size="11" font-weight="600" fill="#7dd3fc">DeepLearning.AI</text>
+  <text x="206" y="92" font-family="'Segoe UI',sans-serif" font-size="9" fill="#94a3b8">Deep Learning Spec.</text>
+  <text x="206" y="107" font-family="'JetBrains Mono',monospace" font-size="8" fill="#38bdf8">🔄 In Progress</text>
+
+  <rect x="368" y="56" width="160" height="60" rx="8" fill="#0c2014" stroke="#22c55e" stroke-width="0.8"/>
+  <text x="378" y="76" font-family="'Segoe UI',sans-serif" font-size="18">🧠</text>
+  <text x="404" y="76" font-family="'Segoe UI',sans-serif" font-size="11" font-weight="600" fill="#86efac">Andrew Ng</text>
+  <text x="378" y="92" font-family="'Segoe UI',sans-serif" font-size="9" fill="#94a3b8">ML Specialization</text>
+  <text x="378" y="107" font-family="'JetBrains Mono',monospace" font-size="8" fill="#22c55e">✅ Completed</text>
+
+  <rect x="540" y="56" width="160" height="60" rx="8" fill="#0c1d2e" stroke="#818cf8" stroke-width="0.6"/>
+  <text x="550" y="76" font-family="'Segoe UI',sans-serif" font-size="18">⚡</text>
+  <text x="578" y="76" font-family="'Segoe UI',sans-serif" font-size="11" font-weight="600" fill="#c7d2fe">DeepLearning.AI</text>
+  <text x="550" y="92" font-family="'Segoe UI',sans-serif" font-size="9" fill="#94a3b8">Generative AI LLMs</text>
+  <text x="550" y="107" font-family="'JetBrains Mono',monospace" font-size="8" fill="#818cf8">🔄 In Progress</text>
+
+  <rect x="712" y="56" width="164" height="60" rx="8" fill="#0c1d2e" stroke="#0078d4" stroke-width="0.6"/>
+  <text x="722" y="76" font-family="'Segoe UI',sans-serif" font-size="18">🔵</text>
+  <text x="748" y="76" font-family="'Segoe UI',sans-serif" font-size="11" font-weight="600" fill="#60a5fa">Microsoft Azure</text>
+  <text x="722" y="92" font-family="'Segoe UI',sans-serif" font-size="9" fill="#94a3b8">AI Fundamentals</text>
+  <text x="722" y="107" font-family="'JetBrains Mono',monospace" font-size="8" fill="#60a5fa">🔄 Planned</text>
+
+  <!-- Bottom note -->
+  <line x1="24" y1="130" x2="876" y2="130" stroke="#1e3a5f" stroke-width="0.5"/>
+  <text x="24" y="152" font-family="'Segoe UI',sans-serif" font-size="11" fill="#64748b">🏆  Continuously upskilling to stay at the frontier of AI/ML engineering</text>
+  <text x="24" y="172" font-family="'Segoe UI',sans-serif" font-size="10" fill="#475569">HackerRank Python · Kaggle Competitions · Google ML Crash Course</text>
+  <text x="24" y="190" font-family="'JetBrains Mono',monospace" font-size="9" fill="#334155">Certifications updated as completed · Last updated: 2025</text>
+</svg>

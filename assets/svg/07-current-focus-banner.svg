@@ -1,0 +1,55 @@
+<svg width="900" height="180" viewBox="0 0 900 180" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cf-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1a1035"/>
+    </linearGradient>
+    <linearGradient id="cf-top" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="50%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#34d399"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="180" rx="14" fill="url(#cf-bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="179" rx="13.5" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="900" height="3" rx="1" fill="url(#cf-top)"/>
+  <text x="24" y="32" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="700" fill="#e2e8f0">🎯 Current Engineering Focus</text>
+  <line x1="24" y1="44" x2="876" y2="44" stroke="#1e3a5f" stroke-width="0.5"/>
+  <!-- Focus items grid -->
+  <!-- Row 1 -->
+  <rect x="24" y="56" width="200" height="38" rx="8" fill="#0c1d2e" stroke="#38bdf8" stroke-width="0.5"/>
+  <text x="34" y="72" font-family="'Segoe UI',sans-serif" font-size="11" fill="#38bdf8" font-weight="600">🤖 Multi-Agent Systems</text>
+  <text x="34" y="87" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Coord + Tool Agents</text>
+
+  <rect x="236" y="56" width="200" height="38" rx="8" fill="#0c1d2e" stroke="#818cf8" stroke-width="0.5"/>
+  <text x="246" y="72" font-family="'Segoe UI',sans-serif" font-size="11" fill="#818cf8" font-weight="600">🔎 RAG Optimization</text>
+  <text x="246" y="87" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Re-ranking + Hybrid Search</text>
+
+  <rect x="448" y="56" width="200" height="38" rx="8" fill="#0c1d2e" stroke="#34d399" stroke-width="0.5"/>
+  <text x="458" y="72" font-family="'Segoe UI',sans-serif" font-size="11" fill="#34d399" font-weight="600">🏗️ AI Infrastructure</text>
+  <text x="458" y="87" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Scalable LLM Serving</text>
+
+  <rect x="660" y="56" width="216" height="38" rx="8" fill="#0c1d2e" stroke="#fb923c" stroke-width="0.5"/>
+  <text x="670" y="72" font-family="'Segoe UI',sans-serif" font-size="11" fill="#fb923c" font-weight="600">🔧 MLOps Pipelines</text>
+  <text x="670" y="87" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">DVC + MLflow + Airflow</text>
+
+  <!-- Row 2 -->
+  <rect x="24" y="106" width="200" height="38" rx="8" fill="#0c1d2e" stroke="#f472b6" stroke-width="0.5"/>
+  <text x="34" y="122" font-family="'Segoe UI',sans-serif" font-size="11" fill="#f472b6" font-weight="600">⚡ LLM Fine-tuning</text>
+  <text x="34" y="137" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">LoRA / QLoRA Techniques</text>
+
+  <rect x="236" y="106" width="200" height="38" rx="8" fill="#0c1d2e" stroke="#38bdf8" stroke-width="0.5"/>
+  <text x="246" y="122" font-family="'Segoe UI',sans-serif" font-size="11" fill="#38bdf8" font-weight="600">🚀 FastAPI Production</text>
+  <text x="246" y="137" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Scalable API Deployment</text>
+
+  <rect x="448" y="106" width="200" height="38" rx="8" fill="#0c1d2e" stroke="#818cf8" stroke-width="0.5"/>
+  <text x="458" y="122" font-family="'Segoe UI',sans-serif" font-size="11" fill="#818cf8" font-weight="600">🔬 Research → Prod</text>
+  <text x="458" y="137" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Paper to Working System</text>
+
+  <rect x="660" y="106" width="216" height="38" rx="8" fill="#0c1d2e" stroke="#34d399" stroke-width="0.5"/>
+  <text x="670" y="122" font-family="'Segoe UI',sans-serif" font-size="11" fill="#34d399" font-weight="600">🗄️ Vector Databases</text>
+  <text x="670" y="137" font-family="'Segoe UI',sans-serif" font-size="9" fill="#475569">Chroma · Pinecone · Weaviate</text>
+
+  <!-- Footer -->
+  <text x="24" y="168" font-family="'JetBrains Mono',monospace" font-size="9" fill="#334155">Building the full pipeline: Data → Embedding → Agent → Deploy → Monitor</text>
+</svg>

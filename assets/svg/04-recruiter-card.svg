@@ -1,0 +1,52 @@
+<svg width="620" height="250" viewBox="0 0 620 250" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rc-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="rc-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="av-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+  <rect width="620" height="250" rx="16" fill="url(#rc-bg)"/>
+  <rect x="0.5" y="0.5" width="619" height="249" rx="15.5" fill="none" stroke="#334155" stroke-width="1"/>
+  <rect x="0" y="0" width="620" height="4" rx="2" fill="url(#rc-accent)"/>
+  <!-- Avatar -->
+  <circle cx="76" cy="88" r="40" fill="url(#av-grad)" fill-opacity="0.15" stroke="url(#rc-accent)" stroke-width="1.5"/>
+  <circle cx="76" cy="88" r="32" fill="url(#av-grad)" fill-opacity="0.1"/>
+  <text x="76" y="96" font-family="'Segoe UI',system-ui,sans-serif" font-size="24" font-weight="700" fill="#e2e8f0" text-anchor="middle">MB</text>
+  <!-- Name / title -->
+  <text x="134" y="72" font-family="'Segoe UI',system-ui,sans-serif" font-size="22" font-weight="700" fill="#e2e8f0">Mohit Barse</text>
+  <text x="134" y="94" font-family="'JetBrains Mono',monospace" font-size="11" fill="#38bdf8">AI / ML Engineer</text>
+  <!-- Availability badge -->
+  <rect x="134" y="104" width="120" height="20" rx="10" fill="#0c2014" stroke="#22c55e" stroke-width="0.8"/>
+  <circle cx="147" cy="114" r="3.5" fill="#22c55e"/>
+  <text x="196" y="118" font-family="'Segoe UI',system-ui,sans-serif" font-size="10" fill="#86efac" text-anchor="middle" font-weight="600">Available Now</text>
+  <!-- Divider -->
+  <line x1="24" y1="144" x2="596" y2="144" stroke="#1e3a5f" stroke-width="0.8"/>
+  <!-- Contact rows -->
+  <text x="28" y="165" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#64748b">📧</text>
+  <text x="50" y="165" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#cbd5e1">mohitbarse2230@gmail.com</text>
+  <text x="28" y="185" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#64748b">💼</text>
+  <text x="50" y="185" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#cbd5e1">linkedin.com/in/mohit-b-9a997b301</text>
+  <text x="28" y="205" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#64748b">🐦</text>
+  <text x="50" y="205" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#cbd5e1">x.com/mohitkb22</text>
+  <text x="28" y="225" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#64748b">🐙</text>
+  <text x="50" y="225" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#cbd5e1">github.com/MohitKB22</text>
+  <text x="28" y="245" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#64748b">📍</text>
+  <text x="50" y="245" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#cbd5e1">India · Remote-First · Open to Relocation</text>
+  <!-- Tag pills -->
+  <rect x="400" y="152" width="100" height="20" rx="10" fill="#14532d" stroke="#22c55e" stroke-width="0.5"/>
+  <text x="450" y="166" font-family="'Segoe UI',sans-serif" font-size="10" fill="#86efac" text-anchor="middle">✅ Full-Time</text>
+  <rect x="510" y="152" width="100" height="20" rx="10" fill="#1e1b4b" stroke="#818cf8" stroke-width="0.5"/>
+  <text x="560" y="166" font-family="'Segoe UI',sans-serif" font-size="10" fill="#c7d2fe" text-anchor="middle">✅ Freelance</text>
+  <rect x="400" y="180" width="100" height="20" rx="10" fill="#0c2a4a" stroke="#38bdf8" stroke-width="0.5"/>
+  <text x="450" y="194" font-family="'Segoe UI',sans-serif" font-size="10" fill="#7dd3fc" text-anchor="middle">✅ Research</text>
+  <rect x="510" y="180" width="100" height="20" rx="10" fill="#1c1917" stroke="#f59e0b" stroke-width="0.5"/>
+  <text x="560" y="194" font-family="'Segoe UI',sans-serif" font-size="10" fill="#fcd34d" text-anchor="middle">✅ Open Source</text>
+</svg>

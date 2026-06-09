@@ -1,0 +1,28 @@
+<svg width="900" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="otw-bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#14532d"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="otw-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#22c55e" stop-opacity="0"/>
+      <stop offset="25%" stop-color="#22c55e" stop-opacity="0.8"/>
+      <stop offset="75%" stop-color="#22c55e" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#22c55e" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="80" rx="12" fill="url(#otw-bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="79" rx="11.5" fill="none" stroke="url(#otw-border)" stroke-width="1"/>
+  <!-- Pulse rings -->
+  <circle cx="60" cy="40" r="18" fill="#22c55e" fill-opacity="0.08"/>
+  <circle cx="60" cy="40" r="12" fill="#22c55e" fill-opacity="0.12"/>
+  <circle cx="60" cy="40" r="6" fill="#22c55e" fill-opacity="0.8"/>
+  <circle cx="60" cy="40" r="4" fill="#86efac"/>
+  <!-- Text -->
+  <text x="92" y="32" font-family="'Segoe UI',system-ui,sans-serif" font-size="17" font-weight="700" fill="#86efac">Open to Work</text>
+  <text x="92" y="55" font-family="'Segoe UI',system-ui,sans-serif" font-size="12" fill="#4ade80" font-weight="300">Full-Time Roles  ·  Freelance AI Projects  ·  Research Collaborations  ·  Open Source</text>
+  <!-- Right badge -->
+  <rect x="760" y="24" width="116" height="32" rx="8" fill="#0c2014" stroke="#22c55e" stroke-width="0.5"/>
+  <text x="818" y="44" font-family="'JetBrains Mono',monospace" font-size="10" fill="#22c55e" text-anchor="middle" font-weight="500">AVAILABLE NOW</text>
+</svg>

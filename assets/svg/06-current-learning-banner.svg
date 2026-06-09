@@ -1,0 +1,55 @@
+<svg width="900" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="cl-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="cl-top" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="prog1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#818cf8"/>
+      <stop offset="100%" stop-color="#38bdf8"/>
+    </linearGradient>
+    <linearGradient id="prog2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#34d399"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+    <linearGradient id="prog3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="100%" stop-color="#f97316"/>
+    </linearGradient>
+    <linearGradient id="prog4" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f472b6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" rx="14" fill="url(#cl-bg)"/>
+  <rect x="0.5" y="0.5" width="899" height="199" rx="13.5" fill="none" stroke="#1e3a5f" stroke-width="1"/>
+  <rect x="0" y="0" width="900" height="3" rx="1" fill="url(#cl-top)"/>
+  <text x="24" y="32" font-family="'Segoe UI',sans-serif" font-size="14" font-weight="700" fill="#c7d2fe">🎓 Currently Learning</text>
+  <line x1="24" y1="44" x2="876" y2="44" stroke="#1e3a5f" stroke-width="0.5"/>
+  <!-- Row 1 -->
+  <text x="24" y="70" font-family="'Segoe UI',sans-serif" font-size="12" fill="#94a3b8">🤖  Multi-Agent Systems</text>
+  <rect x="220" y="60" width="560" height="10" rx="5" fill="#1e293b"/>
+  <rect x="220" y="60" width="420" height="10" rx="5" fill="url(#prog1)"/>
+  <text x="800" y="70" font-family="'Segoe UI',sans-serif" font-size="11" fill="#818cf8">75%</text>
+  <!-- Row 2 -->
+  <text x="24" y="100" font-family="'Segoe UI',sans-serif" font-size="12" fill="#94a3b8">🔎  RAG Optimization</text>
+  <rect x="220" y="90" width="560" height="10" rx="5" fill="#1e293b"/>
+  <rect x="220" y="90" width="476" height="10" rx="5" fill="url(#prog2)"/>
+  <text x="800" y="100" font-family="'Segoe UI',sans-serif" font-size="11" fill="#34d399">85%</text>
+  <!-- Row 3 -->
+  <text x="24" y="130" font-family="'Segoe UI',sans-serif" font-size="12" fill="#94a3b8">🔧  MLOps Pipelines</text>
+  <rect x="220" y="120" width="560" height="10" rx="5" fill="#1e293b"/>
+  <rect x="220" y="120" width="336" height="10" rx="5" fill="url(#prog3)"/>
+  <text x="800" y="130" font-family="'Segoe UI',sans-serif" font-size="11" fill="#fb923c">60%</text>
+  <!-- Row 4 -->
+  <text x="24" y="160" font-family="'Segoe UI',sans-serif" font-size="12" fill="#94a3b8">⚡  LLM Fine-tuning</text>
+  <rect x="220" y="150" width="560" height="10" rx="5" fill="#1e293b"/>
+  <rect x="220" y="150" width="280" height="10" rx="5" fill="url(#prog4)"/>
+  <text x="800" y="160" font-family="'Segoe UI',sans-serif" font-size="11" fill="#f472b6">50%</text>
+  <!-- Footer note -->
+  <text x="24" y="190" font-family="'Segoe UI',sans-serif" font-size="10" fill="#334155">Updated regularly · Skills grow with every build</text>
+</svg>
