@@ -305,7 +305,7 @@ flowchart LR
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/MohitKB22/MohitKB22/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake" width="100%"/>
+  <img src="https://github.com/MohitKB22/MohitKB22/blob/output/github-contribution-grid-snake.gif" width="100%"/>
 </div>
 
 <!-- Snake setup: Create .github/workflows/snake.yml with the YAML below -->
