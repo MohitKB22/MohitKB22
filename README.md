@@ -158,26 +158,6 @@ I'm an **AI/ML Engineer** at the intersection of **Retrieval-Augmented Generatio
 
 ---
 
-### 🏎️ F1 Analytics Dashboard
-
-> Interactive analytics platform for Formula 1 race data — driver performance analysis, team trend breakdowns, and lap-by-lap insights with live Plotly visualizations.
-
-| Feature | Details |
-|---|---|
-| 📊 Visualization | Plotly-powered race charts and driver heatmaps |
-| 🏁 Race Analysis | Comparative lap times, sector data, pit strategies |
-| ⚡ Interactive UI | Dynamic filters, team/driver selectors, live charts |
-| 📦 Data Pipeline | Ingestion from Ergast F1 API + FastF1 library |
-| 🛠️ Stack | `Python` · `Streamlit` · `Pandas` · `Plotly` · `FastF1` |
-| 📈 Impact | Turns raw race data into actionable performance insights |
-
-📦 **Downloads & Links**
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohitKB22/F1-analytics-dashboard)
-[![Download ZIP](https://img.shields.io/badge/Download_ZIP-0f172a?style=for-the-badge&logo=download&logoColor=white)](https://github.com/MohitKB22/F1-analytics-dashboard/archive/refs/heads/main.zip)
-
----
-
 ## 🏗️ System Architecture Diagrams
 
 ### LLM Orchestration Pipeline
