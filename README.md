@@ -116,48 +116,6 @@ I'm an **AI/ML Engineer** at the intersection of **Retrieval-Augmented Generatio
 
 ---
 
-## 🚀 Featured Projects
-
-### ✈️ Agentic AI Travel Planner
-
-> An autonomous multi-agent travel planning system — intelligent task decomposition, live web retrieval, and adaptive itinerary generation powered by LLM orchestration.
-
-| Feature | Details |
-|---|---|
-| 🧠 Agentic Workflow | Autonomous task decomposition and execution |
-| 🌐 Live Retrieval | Real-time web search for up-to-date recommendations |
-| 🗺️ Itinerary Engine | Structured travel plans with day-by-day breakdowns |
-| ⚙️ Architecture | Multi-agent coordination with planning + execution agents |
-| 🛠️ Stack | `LangChain` · `OpenAI` · `Python` · `FastAPI` |
-| 📈 Impact | Reduces manual trip planning from hours to seconds |
-
-📦 **Downloads & Links**
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohitKB22/AgenticAI-TravelPlanner)
-[![Download ZIP](https://img.shields.io/badge/Download_ZIP-0f172a?style=for-the-badge&logo=download&logoColor=white)](https://github.com/MohitKB22/AgenticAI-TravelPlanner/archive/refs/heads/main.zip)
-
----
-
-### 🩺 AI Health Assistant
-
-> Conversational AI for health guidance — NLP-powered symptom understanding with context-aware responses, safe content guardrails, and real-time suggestion engine.
-
-| Feature | Details |
-|---|---|
-| 💬 Conversational AI | Health-focused dialogue with memory and context |
-| 🔎 Symptom Understanding | NLP-based intent recognition for medical queries |
-| 🛡️ Safe Boundaries | Guardrails to route serious cases to professionals |
-| 📊 Response Quality | Structured, reliable guidance with clear disclaimers |
-| 🛠️ Stack | `JavaScript` · `OpenAI API` · `NLP` · `REST API` |
-| 📈 Impact | Accessible health guidance available 24/7 |
-
-📦 **Downloads & Links**
-
-[![Repository](https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MohitKB22/AI_Health_Assitant)
-[![Download ZIP](https://img.shields.io/badge/Download_ZIP-0f172a?style=for-the-badge&logo=download&logoColor=white)](https://github.com/MohitKB22/AI_Health_Assitant/archive/refs/heads/main.zip)
-
----
-
 ## 🏗️ System Architecture Diagrams
 
 ### LLM Orchestration Pipeline
@@ -213,8 +171,8 @@ flowchart TD
 
 | Certification | Platform | Status |
 |---|---|---|
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | 🔄 In Progress |
-| 🤖 Deep Learning Specialization | Coursera / DeepLearning.AI | 🔄 In Progress |
+| ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Completed |
+| 🤖 Deep Learning Specialization | Coursera / DeepLearning.AI | ✅ Completed |
 | 🧠 Machine Learning Specialization | Coursera / Andrew Ng | ✅ Completed |
 | ⚡ Generative AI with LLMs | DeepLearning.AI | 🔄 In Progress |
 | 🔵 Azure AI Fundamentals | Microsoft | 🔄 Planned |
