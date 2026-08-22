@@ -114,32 +114,6 @@ I'm an **AI/ML Engineer** at the intersection of **Retrieval-Augmented Generatio
 
 ---
 
-## 🏗️ System Architecture Diagrams
-
-### LLM Orchestration Pipeline
-
-```mermaid
-flowchart TD
-    A["👤 User Query"]
-    B["🧠 Agentic Planner\nTask Decomposition · Reasoning"]
-    C1["🌐 Web Search\nLive Information Retrieval"]
-    C2["📚 Knowledge Base\nVector Store · FAISS / ChromaDB"]
-    C3["📄 Document Processing\nPDF Parsing · Chunking · Embedding"]
-    D["🔎 Retrieval Layer\nSemantic Search · Re-ranking"]
-    E["⚡ LLM Orchestrator\nGPT-4o · LangChain · LlamaIndex"]
-    F["🛠️ Tool Execution\nAPIs · Python Functions · External Services"]
-    G["✅ Context-Aware Response\nStructured Output · Memory Update"]
-
-    A --> B
-    B --> C1 & C2 & C3
-    C1 & C2 & C3 --> D
-    D --> E
-    E --> F
-    F --> G
-```
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -159,42 +133,6 @@ flowchart TD
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true&area=true&point=38bdf8&line=818cf8&color=e2e8f0" />
-</div>
-
----
-
-## 🎓 Certifications
-
-<div align="center">
-
-| Certification | Platform | Status |
-|---|---|---|
-| ☁️ AWS Cloud Practitioner | Amazon Web Services | ✅ Completed |
-| 🤖 Deep Learning Specialization | Coursera / DeepLearning.AI | ✅ Completed |
-| 🧠 Machine Learning Specialization | Coursera / Andrew Ng | ✅ Completed |
-| ⚡ Generative AI with LLMs | DeepLearning.AI | 🔄 In Progress |
-| 🔵 Azure AI Fundamentals | Microsoft | 🔄 Planned |
-
-</div>
-
----
-
-## 🎯 Current Focus
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════╗
-║              CURRENT ENGINEERING FOCUS                    ║
-╠══════════════════════════════════════════════════════════╣
-║  🤖  Multi-Agent Systems   →  Coordinator + tool agents  ║
-║  🔎  RAG Optimization      →  Re-ranking + hybrid search ║
-║  🏗️  AI Infrastructure     →  Scalable LLM serving       ║
-║  🔧  MLOps Pipelines       →  DVC + MLflow + Airflow     ║
-║  ⚡  LLM Fine-tuning       →  LoRA / QLoRA techniques    ║
-╚══════════════════════════════════════════════════════════╝
-```
-
 </div>
 
 ---
