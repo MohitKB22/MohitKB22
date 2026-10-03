@@ -114,17 +114,34 @@ I'm an **AI/ML Engineer** at the intersection of **Retrieval-Augmented Generatio
 
 ---
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/MohitKB22/AI-BASED-RESUME-ANALYSER">
+    <img src="./profile/pin-resume-analyser.svg" alt="AI-Based Resume Analyser" width="49%" />
+  </a>
+  <a href="https://github.com/MohitKB22/AI_Health_Assitant">
+    <img src="./profile/pin-health-assistant.svg" alt="AI Health Assistant" width="49%" />
+  </a>
+  <a href="https://github.com/MohitKB22/Agentic-Cybersecurity-Soc">
+    <img src="./profile/pin-cybersecurity-soc.svg" alt="Agentic Cybersecurity SOC" width="49%" />
+  </a>
+</p>
+
+---
+
 ## 📊 GitHub Stats
 
+<!-- Cards are generated daily by .github/workflows/readme-stats.yml (github-readme-stats) -->
 <div align="center">
 
-<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohitKB22&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="175" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohitKB22&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="175" src="./profile/stats.svg" alt="Mohit's GitHub stats" />
+<img height="175" src="./profile/top-langs.svg" alt="Top languages" />
 
 </div>
 
 <div align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=MohitKB22&theme=tokyonight&hide_border=true" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=MohitKB22&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 ---
@@ -132,7 +149,15 @@ I'm an **AI/ML Engineer** at the intersection of **Retrieval-Augmented Generatio
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true&area=true&point=38bdf8&line=818cf8&color=e2e8f0" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=MohitKB22&theme=tokyo-night&hide_border=true&area=true&point=38bdf8&line=818cf8&color=e2e8f0" alt="Contribution activity graph" />
+</div>
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MohitKB22/MohitKB22/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MohitKB22/MohitKB22/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake" src="https://raw.githubusercontent.com/MohitKB22/MohitKB22/output/github-contribution-grid-snake-dark.svg" />
+  </picture>
 </div>
 
 ---
